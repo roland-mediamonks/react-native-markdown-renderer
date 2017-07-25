@@ -27,7 +27,7 @@
   "dependencies": {
     "markdown-it": "^8.3.1",
     "react": "16.0.0-alpha.12",
-    "react-native": "0.45.1",
+    "react-native": "0.46.0",
     "react-native-fit-image": "^1.4.9"
   }
 }
